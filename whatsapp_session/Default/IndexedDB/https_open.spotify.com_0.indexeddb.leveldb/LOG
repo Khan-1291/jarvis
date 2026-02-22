@@ -1,0 +1,6 @@
+2026/02/16-21:55:30.865 66a8 Creating DB F:\python\moon0.2\whatsapp_session\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb since it was missing.
+2026/02/16-21:55:30.869 66a8 Reusing MANIFEST F:\python\moon0.2\whatsapp_session\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/16-22:04:10.379 4e8c Level-0 table #5: started
+2026/02/16-22:04:10.382 4e8c Level-0 table #5: 82288 bytes OK
+2026/02/16-22:04:10.383 4e8c Delete type=0 #3
+2026/02/16-22:04:10.384 4e8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+{
+  "aliases": {
+    "open code": "open vscode",
+    "launch browser": "open chrome"
+  },
+  "usage_frequency": {
+    "open chrome": 14
+  }
+}

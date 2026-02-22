@@ -1,0 +1,19 @@
+edge-tts
+sounddevice
+soundfile
+Pillow
+vosk
+SpeechRecognition
+requests
+python-dotenv
+groq
+pyautogui
+pygetwindow
+psutil
+pyttsx3
+keyboard
+pyperclip
+plyer
+ psutil 
+ speedtest-cli
+  pycaw
